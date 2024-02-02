@@ -4,6 +4,10 @@
 ```
 app/routes.php
 ```
+## Views
+```
+src/Views
+```
 ## Настройки подсоединения к БД
 ```
 src/Models/DB.php
