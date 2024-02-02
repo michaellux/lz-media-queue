@@ -26,7 +26,7 @@
         "ext-json": "*",
         "monolog/monolog": "^2.8",
         "mpdf/mpdf": "^8.2",
-        "php-di/php-di": "^6.4",
+        "php-di/php-di": "^7.0",
         "selective/basepath": "^2.2",
         "slim/php-view": "^3.2",
         "slim/psr7": "^1.6",
